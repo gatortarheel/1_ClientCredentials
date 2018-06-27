@@ -1,0 +1,11 @@
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\obj\Debug\netcoreapp2.0\Client.csprojAssemblyReference.cache
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\rsmith\Downloads\IdentityServer4.Samples-release\IdentityServer4.Samples-release\Quickstarts\1_ClientCredentials\src\Client\obj\Debug\netcoreapp2.0\Client.pdb
